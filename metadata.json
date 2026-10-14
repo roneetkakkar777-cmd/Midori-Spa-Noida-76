@@ -1,0 +1,8 @@
+{
+  "name": "Midori Spa Noida 76",
+  "description": "Midori Spa Noida 76 offers premium massage and spa therapies in Sector 76, Noida. Experience luxury relaxation, professional therapists, and rejuvenating wellness treatments.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
